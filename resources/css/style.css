@@ -1,3 +1,14 @@
+body {
+  background: Black;
+  text-align: center;
+}
 h1 {
-  colour: blue;
+  color: White;
+  font-family: verdana;
+  font-size: 50px;
+  text-align: center;
+}
+a {
+  color: aquamarine;
+  font-size: 16px;
 }
