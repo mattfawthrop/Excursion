@@ -12,3 +12,17 @@ a {
   color: aquamarine;
   font-size: 16px;
 }
+h2 {
+  color: white;
+  font-weight: 300;
+  font-size: 42px;
+  font-family: verdana;
+}
+p {
+  font-family: verdana;
+  font-size: 21px;
+  color: gray;
+}
+div.footer {
+  text-align: right;
+}
